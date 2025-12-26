@@ -1,0 +1,5 @@
+{
+  "name": "DQUEUE - Advanced Queue Management System",
+  "description": "A comprehensive queue management system featuring Kiosk, Staff, and Admin views with real-time ticket tracking and analytics.",
+  "requestFramePermissions": []
+}
